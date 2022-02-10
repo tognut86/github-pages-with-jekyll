@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Tom & co"
 ---
 
-I'm glad you are here. I plan to talk about ...
+This is my blog about myself and my other selves.
